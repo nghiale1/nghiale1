@@ -26,8 +26,7 @@
 </div>
 
 <p align="center">
-<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" style="" frameBorder="0" class="giphy-embed"></iframe>
-  <!-- <img src="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=" alt="giphy" /> -->
+  <img src="./giphy.webp" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
